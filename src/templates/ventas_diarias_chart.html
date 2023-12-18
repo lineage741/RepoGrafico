@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graficos de Ventas Diarias</title>
+    <style>
+        /* Estilos para centrar el formulario */
+        .form-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        /* Estilos para centrar el botón de actualizar */
+        .update-button {
+            margin-top: 10px; /* Puedes ajustar este valor según sea necesario */
+        }
+    </style>
+</head>
+
+<body>
+    </form>
+    </div>
+    <a href="{{ url_for('ventas_diarias_chart') }}">Ventas Diarias</a>
+    <a href="{{ url_for('ventas_mensuales_chart') }}">Ventas Mensuales</a>
+    <a href="{{ url_for('real_time_chart') }}">Ventas productos</a>
+    <div>
+    {{ plot | safe }}
+    </div>
+</body>
+</html>

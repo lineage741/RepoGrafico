@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graficos de Ventas</title>
+    <style>
+        /* Estilos para centrar el formulario */
+        .form-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        /* Estilos para centrar el botón de actualizar */
+        .update-button {
+            margin-top: 10px; /* Puedes ajustar este valor según sea necesario */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form-container">
+    <form method="POST" action="{{ url_for('real_time_chart') }}">
+        <label for="cantidad">Seleccione la cantidad:</label>
+        <select name="cantidad" id="cantidad">
+            <option value="3">Top 3</option>
+            <option value="5">Top 5</option>
+            <option value="10" selected>Top 10</option>
+    </select>
+
+    <form method="POST" action="{{ url_for('real_time_chart') }}">
+    <label for="filtro">Ventas por:</label>
+    <select name="filtro" id="filtro">
+        <option value="producto" {% if filtro_seleccionado == 'producto' %}selected{% endif %}>Producto</option>
+        <option value="categoria" {% if filtro_seleccionado == 'categoria' %}selected{% endif %}>Categoría</option>
+        <option value="marca" {% if filtro_seleccionado == 'marca' %}selected{% endif %}>Marca</option>
+    </select>
+
+    <input type="submit" value="Actualizar"> 
+
+    </form>
+    </div>
+    <a href="{{ url_for('ventas_diarias_chart') }}">Ventas Diarias</a>
+    <div>
+    {{ plot | safe }}
+    </div>
+</body>
+</html>
+

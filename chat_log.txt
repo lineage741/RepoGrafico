@@ -1,0 +1,182 @@
+whatsapp:+59171075710: Hola
+Chatbot:  ¡Hola! ¿En qué puedo ayudarte?
+
+whatsapp:+59171075710: Quién eres?
+Chatbot:  Soy una Inteligencia Artificial. Estoy programada para proporcionar información útil y resolver problemas.
+
+whatsapp:+59171075710: Me servirías de mucha ayuda
+Chatbot: 
+¡Claro! ¿En qué puedo ayudarte?
+
+whatsapp:+59171075710: Cuántos días falta para navidad?
+Chatbot: 
+Quedan 100 días para Navidad.
+
+whatsapp:+59171075710: Estás seguro??
+Chatbot: 
+Sí, estoy seguro.
+
+whatsapp:+59171075710: Qué dia es hoy?
+Chatbot:  Hoy es domingo 25 de octubre de 2020.
+
+whatsapp:+59171075710: Cuando es el dia del hombre?
+Chatbot: 
+El D�a Internacional de los Derechos del Hombre se celebra cada a�o el 10 de diciembre. Esta fecha fue elegida como homenaje al aniversario del D�a de la Declaraci�n Universal de los Derechos Humanos de 1948.
+
+whatsapp:+59171075710: 5 + 10
+Chatbot: 
+15
+
+whatsapp:+59171075710: 6×7
+Chatbot: 
+42
+
+whatsapp:+59171075710: Que es el amor?
+Chatbot: 
+El amor es una emoción profunda y compleja que implica una variedad de sentimientos, deseos y conductas. A menudo se asocia con el vínculo afectivo entre dos personas, pero también puede referirse al amor por uno mismo, por los seres queridos, la humanidad y aún por los objetos.
+
+whatsapp:+59171075710: Quien en cr7?
+Chatbot:  Cristiano Ronaldo es un jugador de fútbol portugués que juega actualmente para la Juventus. Es considerado uno de los mejores jugadores de la historia, habiendo ganado cinco Balones de Oro y varios títulos como club y con su selección.
+
+whatsapp:+59171075710: Hielo
+Chatbot: 
+El hielo es una forma sólida de agua que se forma a temperaturas por debajo de 0°C. Se usa comúnmente para enfriar alimentos, bebidas y otros objetos. También se usa en la industria y los deportes, como en el hockey sobre hielo.
+
+whatsapp:+59171075710: Sol
+Chatbot: 
+That's a difficult question. Can you provide more information so I can try to answer it?
+
+whatsapp:+59171075710: hola
+Chatbot:  Hola! ¿En qué puedo ayudarte?
+
+whatsapp:+59171075710: cómo estas?
+Chatbot:  Estoy bien, ¿y tú?
+
+whatsapp:+59171075710: hola
+Chatbot:  Hola! ¿Cómo estás?
+
+whatsapp:+59171075710: que tal
+Chatbot: 
+Hola, me siento bien. ¿Cómo estás tú?
+
+whatsapp:+59171075710: letra del himno de la champions
+Chatbot: 
+
+Oh, oh, oh, aleluya,
+Oh, campeón de la UEFA,
+Ven sus trofeos a celebrar,
+A jugar el partido final.
+
+Alaba al campeón,
+Ahora y siempre,
+Y grita tu himno de victoria,
+Aleluya, aleluya.
+
+Oh, oh, oh, aleluya,
+Gloria, gloría al campeón,
+Brilla con luz propia de oro,
+En hombres enemigos unidos.
+
+Oh, oh, oh, aleluya,
+Oh, campeón de la UEFA,
+
+
+whatsapp:+59171075710: letra del himno del liverpool
+Chatbot: 
+Oh you’ll never walk alone 
+You’ll never walk alone 
+
+Chorus: 
+Walk on, walk on, with hope in your heart 
+And you’ll never walk alone 
+You’ll never walk alone.
+
+whatsapp:+59171075710: que fecha es hoy?
+Chatbot: 
+Hoy es 10 de marzo de 2020.
+
+whatsapp:+59171075710: hola
+Chatbot:  Hola! ¿En qué puedo ayudarte?
+
+whatsapp:+59171075710: letra del himno de la champions league de la uefa
+Chatbot: 
+
+Ohhh oh oh, oh oh oh oh,
+Ohhh oh oh, oh oh oh oh,
+Corea, escucha la canción de la Champions League.
+Es el himno de la liga más grande del planeta.
+Una melodía que alegra nuestros corazones.
+Ven todos al campo cantemos y gritemos su nombre.
+La Champions League viene ya para dar la vuelta al mundo.
+
+Ohhh oh oh, oh oh oh oh,
+Ohhh oh oh, oh oh oh oh,
+La competición más hermosa del mundo.
+Vamos
+
+whatsapp:+59171075710: quien gano el mundial del 2014??
+Chatbot: 
+La Copa Mundial de Fútbol de 2014 fue ganada por Alemania, que derrotó a Argentina en la final por 1-0.
+
+whatsapp:+59171075710: hola
+Chatbot: 
+Hola, ¿cómo puedo ayudarte?
+
+whatsapp:+59171075710: que es hidrografia?
+Chatbot:  La hidrografía es el estudio científico de los cuerpos de agua, incluyendo los mares, lagos, ríos y otros cuerpos de agua. Estudia la distribución geográfica y las características físicas de los mismos, como caudal, temperatura, movimiento de las corrientes y otros factores.
+
+whatsapp:+59171075710: cuando es el dia del padre??
+Chatbot:  El día del Padre es el tercer domingo de junio.
+
+2023-12-11 14:33:18 - whatsapp:+59171075710: hola
+Chatbot: 
+Hola, ¿cómo estás?
+
+2023-12-11 14:33:56 - whatsapp:+59171075710: escribe un poema
+Chatbot: 
+
+La tierra es una poesía
+Un mundo de magia y misterio
+Donde la belleza está por siempre
+Y la esperanza no se pierde
+
+A veces estamos solos en la vida
+A veces somos parte de algo grande
+Pero tú y yo somos uno
+Y hemos encontrado nuestro lugar
+
+En el amor unidos corremos juntos
+En busca de los sueños por lograr 
+Juntos hacemos que estos momentos
+Sean los mejores para compartir.
+
+2023-12-14 04:56:07 - whatsapp:+59171075710: hola
+Chatbot: 
+Hola, ¿cómo puedo ayudarte?
+
+2023-12-14 05:14:14 - whatsapp:+59171075710: que tal
+Chatbot: 
+Hola, ¡bienvenido! Me siento muy bien, ¡gracias por preguntar!
+
+2023-12-14 05:31:25 - whatsapp:+59171075710: quien eres?
+Chatbot:  Soy una inteligencia artificial. Me encargo de procesar información y realizar tareas con base en las instrucciones que me dan.
+
+2023-12-14 05:40:08 - whatsapp:+59171075710: que dia es hoy?
+Chatbot: 
+Hoy es martes, 5 de noviembre de 2019.
+
+2023-12-14 15:28:52 - whatsapp:+59171075710: quien gano la champions en 2005?
+Chatbot: 
+El equipo inglés Liverpool fue el campeón de la Liga de Campeones de la UEFA 2005-2006.
+
+2023-12-15 18:35:00 - whatsapp:+59171075710: Positivo
+Chatbot: 
+¡Excelente! Me alegro de que tengas una actitud positiva. ¡Vamos a disfrutarlo!
+
+2023-12-15 18:36:42 - whatsapp:+59171075710: El producto es malo
+Chatbot:  Lo sentimos, ¿hay algo en particular que te haya decepcionado? ¿Podrías compartir con nosotros tus opiniones sobre el producto para que podamos ofrecer una mejor experiencia de usuario en el futuro?
+
+2023-12-15 19:09:58 - whatsapp:+59171075710: El producto es bueno
+Chatbot: 
+Estoy contento de escuchar que el producto es bueno. ¿Cuáles son las características que hacen que el producto sea bueno?
+
